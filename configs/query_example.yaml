@@ -1,12 +1,8 @@
 ip: "127.0.0.1"
-port: 8081
-api:
-  max_message_size: 32
-usecase:
-  default_message: "hello, world"
+port: 8080
 db:
   host: "localhost"
   port: 5432
   user: "lark_dev"
   password: "Annapetrovna2005"
-  dbname: "hello"
+  dbname: "query"
